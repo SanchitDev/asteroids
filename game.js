@@ -388,7 +388,7 @@ Ship = function () {
                                0, 11,
                                3,  6]);
 
-  this.delayBeforeBullet = 0;
+  this.delayBeforeBullet = 10;
 
   this.postMove = this.wrapPostMove;
 
